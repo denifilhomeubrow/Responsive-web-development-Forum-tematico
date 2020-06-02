@@ -1,0 +1,20 @@
+/*documento css */
+*{
+	margin:0px;
+	padding:1px;
+	border-bottom-color:#ff0
+	
+}
+#div1 {
+    position:center;
+    width:100%;
+	height:70px;
+	border-radius:0px;
+}
+#divprincipal {
+	widh:100%;
+	height:100%;
+	border-color:#ff0;
+	border-width:4px;
+	border-style:solid;
+}
