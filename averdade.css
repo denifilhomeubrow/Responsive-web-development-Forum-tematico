@@ -1,0 +1,33 @@
+naver{
+	overflow: hidden;
+	position: fixed;
+	top:0;
+	}
+	.icone-menu {
+    width: 50px;
+}
+
+.bloco-dois {
+    margin-top: 50px;
+}
+
+/* 
+.img-rodape{
+    width: 40px;
+} */
+
+footer {
+    color: white;
+    padding: 20px 0;
+    background-color: brown;
+}
+
+.a-rodape {
+    text-decoration: none;
+    color: white;
+}
+
+.a-rodape:hover {
+    text-decoration: none;
+    color: white;
+}
